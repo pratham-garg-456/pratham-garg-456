@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **FrontEnd**
 
-- 👨‍💻 All of my projects are available at [Coming Soon..](Coming Soon..)
+- 👨‍💻 All of my projects are available at https://prathamgarg456.vercel.app/
 
 - 📫 How to reach me **Prathamgarg456@gmail.com**
 
