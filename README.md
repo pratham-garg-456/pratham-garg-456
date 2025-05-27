@@ -104,7 +104,7 @@
 
 <div align="center">
   
-## **🚀 Projects Highlights**
+## **Projects Highlights**
 
 | **Personal Portfolio** | **Repositories** |
 |---|---|
@@ -116,7 +116,7 @@
 
 <div align="center">
   
-## **📊 GitHub Analytics**
+## **GitHub Analytics**
   
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-garg-456&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&border_color=2E8B57" alt="Top Languages"/>
 
@@ -133,7 +133,7 @@
 
 <div align="center">
   
-## **👀 Profile Views & Social**
+## **Profile Views & Social**
   
 ![Profile Views](https://komarev.com/ghpvc/?username=pratham-garg-456&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -147,7 +147,7 @@
 
 <div align="center">
   
-## **💭 Final Words**
+## **Final Words**
 
  ### *"Success is not final, failure is not fatal: it is the courage to continue that counts."*
  **— Winston Churchill**
