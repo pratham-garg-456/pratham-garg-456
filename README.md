@@ -14,7 +14,8 @@
 ---
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/219/219867.gif" alt="Tanjiro Banner" width="450"/>
+![219867](https://github.com/user-attachments/assets/199b2d86-49f8-4f1f-8d27-2a632ad2918f)
+
 </div>
 
 <div align="center">
